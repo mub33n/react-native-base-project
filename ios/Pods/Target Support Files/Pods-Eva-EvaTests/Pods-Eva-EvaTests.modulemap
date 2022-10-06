@@ -1,0 +1,6 @@
+module Pods_Eva_EvaTests {
+  umbrella header "Pods-Eva-EvaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
